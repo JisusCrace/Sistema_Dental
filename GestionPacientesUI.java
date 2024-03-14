@@ -22,7 +22,7 @@ public class GestionPacientesUI extends JFrame {
         // Crear la lista de pacientes
         listaDePacientes = new ArrayList<>();
 
-        // Crear componentes de la interfaz de usuario
+        // Hola
         nombreField = new JTextField(20);
         edadField = new JTextField(5);
         direccionField = new JTextField(20);
